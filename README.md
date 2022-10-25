@@ -20,4 +20,5 @@ spring.h2.console.path=/h2
 If you want to see the tables, you should write the following in the browser:
 
 http://localhost:9090/h2
-https://github.com/AkhmatovNurbek/js_todoApp/blob/master/src/main/resources/img_1.png
+ <img align="left" src="https://github.com/AkhmatovNurbek/js_todoApp/blob/master/src/main/resources/img_1.png
+" alt="java134""/> 
